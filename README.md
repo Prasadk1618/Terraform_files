@@ -7,7 +7,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashi
 sudo apt update && sudo apt install terraform
 ```
 
-### Some Inport Command..!
+### Some Important Command..!
 ```bash
 terraform init
 terraform plan
