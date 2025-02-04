@@ -14,3 +14,8 @@ terraform plan
 terraform apply
 terraform distroy
 ```
+
+### Apply Command With Variable Value...! 
+```bash
+terraform apply -var vpc_id = "vpc-0ed3c429e5882f1e0"
+```
