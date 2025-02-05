@@ -1,0 +1,6 @@
+my_region = "us-east-1"
+##access_key = ""
+##secreate_key = "l0"
+my_ami = "ami-0c614dee691cbbf37"
+vpc_id = "vpc-0c33cdc23aa09385b"
+inst_type = "t2.micro"
